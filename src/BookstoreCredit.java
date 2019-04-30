@@ -16,6 +16,6 @@ public class BookstoreCredit
         bookStoreCred = gradePointAvg * 10;
 
         System.out.println(studentName + " gets $" + bookStoreCred +
-                " in the school book store becauce of their " + gradePointAvg + " GPA.");
+                " in the school book store because of their " + gradePointAvg + " GPA.");
     }
 }
